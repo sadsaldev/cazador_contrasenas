@@ -68,7 +68,7 @@ class CofreComun(Cofre):
         super().__init__(
             "Cofre Común",
             10,
-            "[✉︎ ] Has encontrado un cofre común."
+            "[✉︎] Has encontrado un cofre común."
         )
 
 
@@ -104,7 +104,7 @@ class CofreLegendario(Cofre):
         super().__init__(
             "Cofre Legendario",
             50,
-            "[★ ] ¡INCREÍBLE! Has desbloqueado un cofre legendario."
+            "[★] ¡INCREÍBLE! Has desbloqueado un cofre legendario."
         )
 
 
@@ -122,5 +122,5 @@ class CofreMaldito(Cofre):
         super().__init__(
             "Cofre Maldito",
             -20,
-            "[☠ ] La contraseña fue inválida. Has caído en un cofre maldito."
+            "[☠] La contraseña fue inválida. Has caído en un cofre maldito."
         )
