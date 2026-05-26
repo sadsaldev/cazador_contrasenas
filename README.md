@@ -55,6 +55,29 @@ Cada contraseña generada debe cumplir obligatoriamente:
 
 ---
 
+# Instalación
+
+1. Clonar o descargar el proyecto
+
+```bash
+
+git clone https://github.com/sadsaldev/cazador_contrasenas
+
+```
+
+O descargar manualmente los archivos.
+
+2. Instalar dependencias
+
+```bash
+
+pip install rich
+
+```
+
+---
+
+
 # Ejecución del programa
 
 Desde la carpeta principal del proyecto ejecutar:
