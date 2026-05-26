@@ -1,6 +1,4 @@
-# =========================================
 # JUEGO CAZADOR DE CONTRASEÑAS
-# =========================================
 
 ## Descripción del proyecto
 
